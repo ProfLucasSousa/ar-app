@@ -28,13 +28,17 @@ Este projeto permite visualizar modelos 3D em realidade aumentada usando marcado
 
 ## 📦 Estrutura
 
-```
+```md
 ar-app/
 ├── index.html           # Arquivo principal da aplicação
 ├── assets/
 │   └── helicoptero.glb  # Modelo 3D do helicóptero
 └── README.md
 ```
+
+## Contribuição
+
+Lucas Silva (luk4rtes)
 
 ## 📝 Licença
 
